@@ -1,0 +1,60 @@
+body, html {
+	height:100%;
+	width:100%;
+	align:center;
+}
+
+div {
+	width: 100%;
+	height: auto;
+	background-color:LimeGreen;
+	text-align:center;
+}
+
+.jumpdiv {
+	width: 100%;
+	height: auto;
+	background-color:LimeGreen;
+}
+
+.tireddiv {
+	background-color:MediumPurple;
+	display: none;
+}
+
+.sleepdiv {
+	background-color: MidnightBlue;
+	display: none;
+}
+
+img {
+	max-width:50%;
+	height:auto;
+}
+
+.tired {
+	margin: auto;
+	padding: 10px;
+}
+
+.jumppic {
+	width:650px;
+	height:660px;
+	padding: 75px 75px 75px 75px;
+}
+
+.jumpjpg {
+	width:450px;
+	height:550px;
+	bottom: 340px;
+	left: 780px;
+	position: absolute;
+	align:center;
+}
+
+button {
+	text-align:center;
+	font-size:32px;
+	padding: 10px 35px;
+	background-color: Coral;
+}
